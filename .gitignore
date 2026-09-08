@@ -4,4 +4,4 @@
 memory.json
 .env
 memory.json
-_pycache__/
+__pycache__/
